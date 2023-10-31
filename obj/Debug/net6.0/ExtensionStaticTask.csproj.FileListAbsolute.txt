@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\ExtensionStaticTask\bin\Debug\net6.0\ExtensionStaticTask.exe
+C:\Users\Adil\Desktop\ExtensionStaticTask\bin\Debug\net6.0\ExtensionStaticTask.deps.json
+C:\Users\Adil\Desktop\ExtensionStaticTask\bin\Debug\net6.0\ExtensionStaticTask.runtimeconfig.json
+C:\Users\Adil\Desktop\ExtensionStaticTask\bin\Debug\net6.0\ExtensionStaticTask.dll
+C:\Users\Adil\Desktop\ExtensionStaticTask\bin\Debug\net6.0\ExtensionStaticTask.pdb
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.AssemblyInfo.cs
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.dll
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\refint\ExtensionStaticTask.dll
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.pdb
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ExtensionStaticTask.genruntimeconfig.cache
+C:\Users\Adil\Desktop\ExtensionStaticTask\obj\Debug\net6.0\ref\ExtensionStaticTask.dll
